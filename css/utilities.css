@@ -25,6 +25,7 @@ strong {
 .pt-5{
 	padding-top: 5%;
 }
+
 .pb-5{
 	padding-bottom: 5%;
 }
@@ -89,4 +90,7 @@ strong {
 
 .pull-right {
 	float: right;
+}
+.pull-center {
+	float: center;
 }

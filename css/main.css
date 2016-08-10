@@ -3,9 +3,9 @@
 	height: 50px;
 }
 .inline{
-display: inline-block;
-top: 50%;
-left: 20%;
+	display: inline-block;
+	top: 50%;
+	left: 20%;
 }
 .linea{
 	display: inline;
@@ -19,10 +19,8 @@ left: 20%;
 .btncirculo{
 	border-radius: 20px;
 	color: white;
-	border:none;
 	padding: 1px;
 	cursor: pointer;
-	
 	
 }
 .marginder{
@@ -30,14 +28,14 @@ left: 20%;
 }
 
 .mosaico{
-	width: 510px;
+	width: 540px;
 	height: 100px;
-	margin:10px 10px;
+	margin:10px 0px;
 }
 .center{
 	position: absolute;
-	right: 50%;
-	bottom: -75.5%;
+	right: 48%;
+	bottom: -59.5%;
 }
 .CBlack{
 	background-color: #000000;
@@ -58,7 +56,34 @@ left: 20%;
 .cuadroopac{
 	width: 100px;
 	height: 100px;
-	background-color: rgb(0,9,0,5);
+	opacity: 0.5;
+}
+.NoneBorder{
+		border:none;
+}
+.border1{
+ 	border-top: 2px gray dotted;
+}
+.border2{
+ 	border-radius: 100%;
+ 	border: 2px gray dotted;
+ 	height: 30px;
+ 	width: 20px;
 
+}
+a{
+	text-decoration: none;
+}
+.tuit{
+	height: 50px;
+	width: 50px;
 
+}
+.cuadro{
+	width: 53px;
+	height: 20px;
+	color: white;
+}
+.negrita{
+	font-weight: bold;
 }
